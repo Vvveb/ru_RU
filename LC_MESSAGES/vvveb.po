@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-10 10:10+0300\n"
-"PO-Revision-Date: 2024-02-12 15:29+0300\n"
+"PO-Revision-Date: 2024-02-12 15:58+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -406,7 +406,7 @@ msgstr "Требование не выполнено"
 
 #: public/install/default/index.html:59 public/install/default/install.html:41
 msgid "Errors"
-msgstr "Ошибка"
+msgstr "Ошибки"
 
 #: public/install/default/index.html:109
 msgid "Please fill the form, contact your hosting provider for details"
@@ -1831,7 +1831,7 @@ msgstr "Редактировать веб-сайт"
 #: public/admin/default/error403.html:115
 #: public/admin/default/error403.html:121 config/custom-post-menu.php:34
 msgid "Posts"
-msgstr "Сообщения"
+msgstr "Посты"
 
 #: public/admin/default/index.html:133 public/admin/default/index.html:336
 #: public/admin/default/index.html:489 public/admin/default/index.html:519
@@ -4703,7 +4703,7 @@ msgstr "Меню"
 #: public/admin/default/error403.html:198
 #: public/admin/default/error403.html:202 config/admin-menu.php:249
 msgid "Media library"
-msgstr "Мпедиа библиотека"
+msgstr "Медиа библиотека"
 
 #: public/admin/default/index.html:214 public/admin/default/index.html:218
 #: public/admin/default/index.html:224 public/admin/default/index.html:563
@@ -26396,9 +26396,8 @@ msgid "Save draft"
 msgstr "Сохранить черновик"
 
 #: public/admin/default/product/categories-bak.html:1230
-#, fuzzy
 msgid "Add category"
-msgstr "URL-адрес категории"
+msgstr "Добавить категорию"
 
 #: public/admin/default/product/categories-bak.html:1243
 #: public/admin/default/product/categories-bak.html:1266
@@ -26450,9 +26449,8 @@ msgstr "Добавить цифровые продукты"
 #: public/admin/default/product/digital-assets.html:1424
 #: public/admin/default/product/digital-assets.html:1476
 #: public/admin/default/product/digital-assets.html:1528
-#, fuzzy
 msgid "Public name"
-msgstr "Общественный путь"
+msgstr "Общественное имя"
 
 #: public/admin/default/product/digital-assets.html:1419
 #: public/admin/default/product/digital-assets.html:1471
@@ -26474,9 +26472,8 @@ msgstr ""
 #: public/admin/default/product/digital-assets.html:1534
 #: public/admin/default/order/vouchers.html:1360
 #: public/admin/default/order/vouchers.html:1419
-#, fuzzy
 msgid "Created at"
-msgstr "Дата создания"
+msgstr "Создан"
 
 #: public/admin/default/product/digital-assets.html:1570
 msgid "No digital assets to display!"
@@ -26783,9 +26780,8 @@ msgstr "Текст"
 #: public/admin/default/product/product.html:1779
 #: public/admin/default/settings/site.html:1672
 #: public/resources/svg/icons/ikonate/index.html:1241
-#, fuzzy
 msgid "Time"
-msgstr "Ограничение времени PHP"
+msgstr "Время"
 
 #: public/admin/default/product/product.html:1785
 #, fuzzy
@@ -26823,9 +26819,8 @@ msgstr "Количество"
 #: public/admin/default/product/product.html:1829
 #: public/admin/default/product/product.html:2045
 #: public/admin/default/product/product.html:2238
-#, fuzzy
 msgid "Subtract Stock"
-msgstr "Вычесть запасы из статуса заказа"
+msgstr "Вычесть запас"
 
 #: public/admin/default/product/product.html:1844
 #: public/admin/default/product/product.html:1925
@@ -27442,7 +27437,7 @@ msgstr "Название"
 #: public/admin/default/content/categories.html:1512
 #: public/admin/default/content/categories.html:1607
 msgid "Category Url"
-msgstr "URL-адрес категории"
+msgstr "Категория URL"
 
 #: public/admin/default/product/categories.html:1393
 #: public/admin/default/product/categories.html:1531
@@ -27836,7 +27831,7 @@ msgstr "Главное меню"
 
 #: public/admin/default/editor/editor.html:2729
 msgid "Footer"
-msgstr "Нижний колонтитул"
+msgstr "Footer"
 
 #: public/admin/default/editor/editor.html:2748
 msgid "Blank Template"
@@ -29034,9 +29029,8 @@ msgstr "отказано"
 #: public/admin/default/settings/site.html:2116
 #: public/admin/default/settings/site.html:2146
 #: public/admin/default/order/order.html:2012
-#, fuzzy
 msgid "canceled_reversal"
-msgstr "отменено"
+msgstr "canceled_reversal"
 
 #: public/admin/default/settings/site.html:2086
 #: public/admin/default/settings/site.html:2117
@@ -29944,9 +29938,8 @@ msgid "Vvveb - Page not found"
 msgstr "Vvveb - Страница не найдена"
 
 #: public/admin/default/error404.html:1236
-#, fuzzy
 msgid "Error 404"
-msgstr "Ошибка"
+msgstr "Ошибка 404"
 
 #: public/admin/default/email/user/reset.html:271
 #: public/admin/default/email/user/reset.txt.html:273
@@ -30077,9 +30070,8 @@ msgstr "(Ошибка 500)"
 #: public/admin/default/fields/field.html:15
 #: public/admin/default/field/field.html:15
 #: public/admin/default/field/fields.html:15
-#, fuzzy
 msgid "Vvveb - Field"
-msgstr "Группы полей"
+msgstr "Vvveb - поля"
 
 #: public/admin/default/fields/field.html:1231
 #: public/admin/default/fields/fields.html:1411
@@ -30123,7 +30115,6 @@ msgstr "Добавить группу регионов"
 
 #: public/admin/default/localization/region-group.html:1348
 #: public/admin/default/localization/region-group.html:1374
-#, fuzzy
 msgid "All regions"
 msgstr "Все регионы"
 
@@ -30134,7 +30125,7 @@ msgstr "регион 3"
 
 #: public/admin/default/localization/translations/domains.html:15
 msgid "Vvveb - Domains"
-msgstr "Vvveb - домены"
+msgstr "Vvveb - Домены"
 
 #: public/admin/default/localization/translations/domains.html:1231
 msgid "Domains"
@@ -30281,9 +30272,8 @@ msgid "No Region to display!"
 msgstr "Нет регионов для отображения!"
 
 #: public/admin/default/localization/region.html:15
-#, fuzzy
 msgid "Vvveb - Region"
-msgstr "Vvveb - Группа регионов"
+msgstr "Vvveb - Регионы"
 
 #: public/admin/default/localization/region.html:1238
 #, fuzzy
@@ -30308,9 +30298,8 @@ msgid "Currency list"
 msgstr "Список валют"
 
 #: public/admin/default/localization/currency.html:1325
-#, fuzzy
 msgid "Sign start"
-msgstr "Дата начала"
+msgstr "Начало подписки"
 
 #: public/admin/default/localization/currency.html:1332
 #, fuzzy
@@ -30509,23 +30498,20 @@ msgstr "Список полей"
 
 #: public/admin/default/field/field.html:981
 #: public/admin/default/field/fields.html:981
-#, fuzzy
 msgid "Save field"
-msgstr "Группы полей"
+msgstr "Сохранить поля"
 
 #: public/admin/default/field/field-group.html:15
 msgid "Vvveb - Field Group"
 msgstr "Вввеб - Группа полей"
 
 #: public/admin/default/field/field-group.html:1231
-#, fuzzy
 msgid "Field Group"
-msgstr "Группа"
+msgstr "Группа полей"
 
 #: public/admin/default/field/field-group.html:1238
-#, fuzzy
 msgid "Return to field groups"
-msgstr "Группы полей"
+msgstr "Вернуть группу полей"
 
 #: public/admin/default/field/field-group.html:1345
 #: public/admin/default/field/field-group.html:1371
@@ -30546,14 +30532,12 @@ msgstr "Добавить поле"
 
 #: public/admin/default/field/field-group.html:1348
 #: public/admin/default/field/field-group.html:1374
-#, fuzzy
 msgid "Field 3"
-msgstr "Группы полей"
+msgstr "Поле3"
 
 #: public/admin/default/field/field-groups.html:15
-#, fuzzy
 msgid "Vvveb - Field groups"
-msgstr "Группы полей"
+msgstr "Vvveb - группы полей"
 
 #: public/admin/default/field/field-groups.html:1241
 #: public/admin/default/field/field-groups.html:1398
@@ -30625,9 +30609,8 @@ msgid "Change password"
 msgstr "Изменить пароль"
 
 #: public/admin/default/user/user-group.html:15
-#, fuzzy
 msgid "Vvveb - User Group"
-msgstr "Группа пользователей"
+msgstr "Vvveb - Группа пользователя"
 
 #: public/admin/default/user/user-group.html:1238
 msgid "Return to user groups"
@@ -30638,20 +30621,17 @@ msgid "Vvveb - User Groups"
 msgstr "Vvveb - группы пользователей"
 
 #: public/admin/default/user/user-groups.html:1231
-#, fuzzy
 msgid "User Groups"
-msgstr "Группы полей"
+msgstr "Группы пользователей"
 
 #: public/admin/default/user/user-groups.html:1238
 #: public/admin/default/user/user-groups.html:1400
-#, fuzzy
 msgid "Add user group"
-msgstr "Группа пользователей"
+msgstr "Добавить группу пользователя"
 
 #: public/admin/default/user/user-groups.html:1353
-#, fuzzy
 msgid "User group"
-msgstr "Группа пользователей"
+msgstr "Группа пользователя"
 
 #: public/admin/default/user/user-groups.html:1395
 msgid "No user group to display!"
@@ -31287,9 +31267,8 @@ msgid "Vvveb - Security"
 msgstr "Vvveb - Безопасность"
 
 #: public/admin/default/tools/security.html:1238
-#, fuzzy
 msgid "Check all now"
-msgstr "Обновить сейчас"
+msgstr "Проверить все"
 
 #: public/admin/default/tools/security.html:1246
 msgid "Integrity check"
@@ -31452,7 +31431,7 @@ msgstr "Включить онлайн-импорт"
 #: public/admin/default/tools/import.html:1347
 #: public/admin/default/tools/export.html:1657
 msgid "Website Url:"
-msgstr "Url веб-сайта:"
+msgstr "Url сайта:"
 
 #: public/admin/default/tools/import.html:1352
 #: public/admin/default/tools/export.html:1661
@@ -31460,9 +31439,8 @@ msgid "Password:"
 msgstr "Пароль:"
 
 #: public/admin/default/tools/import.html:1359
-#, fuzzy
 msgid "Start import"
-msgstr "Дата начала"
+msgstr "Старт импорт"
 
 #: public/admin/default/tools/errorlog.html:15
 msgid "Vvveb - Error log"
@@ -31899,16 +31877,14 @@ msgstr "Vvveb - Дебаг плагин"
 #: public/plugins/debug/admin/settings.html:41
 #: public/plugins/cookie-notice/admin/settings.html:41
 #: plugins/debug/public/admin/settings.html:41
-#, fuzzy
 msgid "Debug plugin"
-msgstr "Отладка"
+msgstr "Дебаг плагин"
 
 #: public/plugins/debug/admin/settings.html:61
 #: public/plugins/cookie-notice/admin/settings.html:61
 #: plugins/debug/public/admin/settings.html:61
-#, fuzzy
 msgid "Profile"
-msgstr "Редактировать профиль"
+msgstr "Профиль"
 
 #: public/plugins/debug/admin/settings.html:64
 #: public/plugins/cookie-notice/admin/settings.html:64
@@ -31979,9 +31955,8 @@ msgstr "Открыть заголовок графика"
 
 #: public/plugins/seo/seotab.html:64 plugins/seo/public/seotab.html:43
 #: plugins/seo/seotab.html:43
-#, fuzzy
 msgid "Open Graph Description"
-msgstr "Описание"
+msgstr "Open Graph Description"
 
 #: public/plugins/seo/seotab.html:70
 msgid "Twitter"
@@ -32081,23 +32056,20 @@ msgstr "Vvveb -  Вставить скрипт плагина"
 #: public/plugins/insert-scripts/admin/settings.html:37
 #: public/plugins/contact-form/admin/settings.html:41
 #: plugins/insert-scripts/public/admin/settings.html:37
-#, fuzzy
 msgid "Insert Scripts Plugin"
-msgstr "Вставить скрипты"
+msgstr "Плагин вставки скриптов"
 
 #: public/plugins/insert-scripts/admin/settings.html:56
 #: public/plugins/contact-form/admin/settings.html:60
 #: plugins/insert-scripts/public/admin/settings.html:56
-#, fuzzy
 msgid "Header scripts"
-msgstr "Вставить скрипты"
+msgstr "Header скрипты"
 
 #: public/plugins/insert-scripts/admin/settings.html:65
 #: public/plugins/contact-form/admin/settings.html:69
 #: plugins/insert-scripts/public/admin/settings.html:65
-#, fuzzy
 msgid "Footer scripts"
-msgstr "Нижний колонтитул"
+msgstr "Footer скрипт"
 
 #: public/plugins/cdn/admin/settings.html:16
 #: plugins/cdn/public/admin/settings.html:16
@@ -32689,7 +32661,7 @@ msgstr "Регулировка яркости"
 
 #: public/resources/svg/icons/ikonate/index.html:300
 msgid "Bug"
-msgstr "Ошибка"
+msgstr "Баг"
 
 #: public/resources/svg/icons/ikonate/index.html:308
 msgid "Add to calendar"
