@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-10 10:10+0300\n"
-"PO-Revision-Date: 2024-01-10 10:10+0200\n"
+"PO-Revision-Date: 2024-02-12 12:02+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -11,8 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==0 || (n!=1 && n%100>=1 && n%100<=19) ? 1 : 2);\n"
-"X-Generator: Vvveb\n"
-
+"X-Generator: Poedit 3.4.2\n"
 
 #: public/themes/landing/index-excerpts.html:10
 #: public/themes/landing/index-no-sidebar.html:10
@@ -33,8 +32,7 @@ msgstr "Главная страница блога — шаблон блога V
 #: public/themes/landing/product/vendor.html:107
 #: public/themes/landing/product/manufacturer.html:107
 #: public/themes/landing/blank-breadcrumb.html:107
-#: public/themes/landing/about.html:107
-#: public/themes/landing/error404.html:107
+#: public/themes/landing/about.html:107 public/themes/landing/error404.html:107
 #: public/themes/landing/index.coming-soon.html:107
 #: public/themes/landing/index-no-sidebar.html:107
 #: public/themes/landing/index-no-sidebar.html:668
@@ -89,8 +87,7 @@ msgid "Begin each day by telling yourself"
 msgstr "Начинайте каждый день с того, что говорите себе"
 
 #: public/themes/landing/index-excerpts.html:145
-#: public/themes/landing/index.html:153
-#: public/themes/landing/index.html:1676
+#: public/themes/landing/index.html:153 public/themes/landing/index.html:1676
 #: public/themes/landing/search/index.html:145
 #: public/themes/landing/product/index.html:145
 #: public/themes/landing/product/category.html:145
@@ -98,8 +95,7 @@ msgstr "Начинайте каждый день с того, что говор�
 #: public/themes/landing/product/vendor.html:145
 #: public/themes/landing/product/manufacturer.html:145
 #: public/themes/landing/blank-breadcrumb.html:149
-#: public/themes/landing/about.html:149
-#: public/themes/landing/error404.html:145
+#: public/themes/landing/about.html:149 public/themes/landing/error404.html:145
 #: public/themes/landing/index.coming-soon.html:145
 #: public/themes/landing/index-no-sidebar.html:145
 #: public/themes/landing/error500.html:145
@@ -141,11 +137,10 @@ msgstr "Начинайте каждый день с того, что говор�
 #: public/themes/landing/checkout/confirm.html:146
 #: public/themes/landing/index.maintenance.html:145
 msgid "+55 (111) 123 777"
-msgstr "55 (111) 123 777"
+msgstr "+55 (111) 123 777"
 
 #: public/themes/landing/index-excerpts.html:151
-#: public/themes/landing/index.html:159
-#: public/themes/landing/index.html:1667
+#: public/themes/landing/index.html:159 public/themes/landing/index.html:1667
 #: public/themes/landing/search/index.html:151
 #: public/themes/landing/product/index.html:151
 #: public/themes/landing/product/category.html:151
@@ -153,8 +148,7 @@ msgstr "55 (111) 123 777"
 #: public/themes/landing/product/vendor.html:151
 #: public/themes/landing/product/manufacturer.html:151
 #: public/themes/landing/blank-breadcrumb.html:155
-#: public/themes/landing/about.html:155
-#: public/themes/landing/error404.html:151
+#: public/themes/landing/about.html:155 public/themes/landing/error404.html:151
 #: public/themes/landing/index.coming-soon.html:151
 #: public/themes/landing/index-no-sidebar.html:151
 #: public/themes/landing/error500.html:151
@@ -207,8 +201,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:165
 #: public/themes/landing/product/manufacturer.html:165
 #: public/themes/landing/blank-breadcrumb.html:169
-#: public/themes/landing/about.html:169
-#: public/themes/landing/error404.html:165
+#: public/themes/landing/about.html:169 public/themes/landing/error404.html:165
 #: public/themes/landing/index.coming-soon.html:165
 #: public/themes/landing/index-no-sidebar.html:165
 #: public/themes/landing/error500.html:165
@@ -249,12 +242,11 @@ msgstr ""
 #: public/themes/landing/checkout/confirm.html:166
 #: public/themes/landing/index.maintenance.html:165
 msgid "USD"
-msgstr "доллар США"
+msgstr "USD"
 
 #: public/themes/landing/index-excerpts.html:173
 #: public/themes/landing/index-excerpts.html:174
-#: public/themes/landing/index.html:181
-#: public/themes/landing/index.html:182
+#: public/themes/landing/index.html:181 public/themes/landing/index.html:182
 #: public/themes/landing/search/index.html:173
 #: public/themes/landing/search/index.html:174
 #: public/themes/landing/product/index.html:173
@@ -269,8 +261,7 @@ msgstr "доллар США"
 #: public/themes/landing/product/manufacturer.html:174
 #: public/themes/landing/blank-breadcrumb.html:177
 #: public/themes/landing/blank-breadcrumb.html:178
-#: public/themes/landing/about.html:177
-#: public/themes/landing/about.html:178
+#: public/themes/landing/about.html:177 public/themes/landing/about.html:178
 #: public/themes/landing/error404.html:173
 #: public/themes/landing/error404.html:174
 #: public/themes/landing/index.coming-soon.html:173
@@ -289,8 +280,7 @@ msgstr "доллар США"
 #: public/themes/landing/download.html:185
 #: public/themes/landing/cart/cart.html:172
 #: public/themes/landing/cart/cart.html:173
-#: public/themes/landing/blank.html:177
-#: public/themes/landing/blank.html:178
+#: public/themes/landing/blank.html:177 public/themes/landing/blank.html:178
 #: public/themes/landing/user/order.html:173
 #: public/themes/landing/user/order.html:174
 #: public/themes/landing/user/index.html:173
@@ -363,8 +353,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:175
 #: public/themes/landing/product/manufacturer.html:175
 #: public/themes/landing/blank-breadcrumb.html:179
-#: public/themes/landing/about.html:179
-#: public/themes/landing/error404.html:175
+#: public/themes/landing/about.html:179 public/themes/landing/error404.html:175
 #: public/themes/landing/index.coming-soon.html:175
 #: public/themes/landing/index-no-sidebar.html:175
 #: public/themes/landing/error500.html:175
@@ -409,8 +398,7 @@ msgstr ""
 
 #: public/themes/landing/index-excerpts.html:181
 #: public/themes/landing/index-excerpts.html:182
-#: public/themes/landing/index.html:189
-#: public/themes/landing/index.html:190
+#: public/themes/landing/index.html:189 public/themes/landing/index.html:190
 #: public/themes/landing/search/index.html:181
 #: public/themes/landing/search/index.html:182
 #: public/themes/landing/product/index.html:181
@@ -425,8 +413,7 @@ msgstr ""
 #: public/themes/landing/product/manufacturer.html:182
 #: public/themes/landing/blank-breadcrumb.html:185
 #: public/themes/landing/blank-breadcrumb.html:186
-#: public/themes/landing/about.html:185
-#: public/themes/landing/about.html:186
+#: public/themes/landing/about.html:185 public/themes/landing/about.html:186
 #: public/themes/landing/error404.html:181
 #: public/themes/landing/error404.html:182
 #: public/themes/landing/index.coming-soon.html:181
@@ -445,8 +432,7 @@ msgstr ""
 #: public/themes/landing/download.html:193
 #: public/themes/landing/cart/cart.html:180
 #: public/themes/landing/cart/cart.html:181
-#: public/themes/landing/blank.html:185
-#: public/themes/landing/blank.html:186
+#: public/themes/landing/blank.html:185 public/themes/landing/blank.html:186
 #: public/themes/landing/user/order.html:181
 #: public/themes/landing/user/order.html:182
 #: public/themes/landing/user/index.html:181
@@ -519,8 +505,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:183
 #: public/themes/landing/product/manufacturer.html:183
 #: public/themes/landing/blank-breadcrumb.html:187
-#: public/themes/landing/about.html:187
-#: public/themes/landing/error404.html:183
+#: public/themes/landing/about.html:187 public/themes/landing/error404.html:183
 #: public/themes/landing/index.coming-soon.html:183
 #: public/themes/landing/index-no-sidebar.html:183
 #: public/themes/landing/error500.html:183
@@ -572,8 +557,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:191
 #: public/themes/landing/product/manufacturer.html:191
 #: public/themes/landing/blank-breadcrumb.html:195
-#: public/themes/landing/about.html:195
-#: public/themes/landing/error404.html:191
+#: public/themes/landing/about.html:195 public/themes/landing/error404.html:191
 #: public/themes/landing/index.coming-soon.html:191
 #: public/themes/landing/index-no-sidebar.html:191
 #: public/themes/landing/error500.html:191
@@ -618,8 +602,7 @@ msgstr ""
 
 #: public/themes/landing/index-excerpts.html:206
 #: public/themes/landing/index-excerpts.html:218
-#: public/themes/landing/index.html:214
-#: public/themes/landing/index.html:226
+#: public/themes/landing/index.html:214 public/themes/landing/index.html:226
 #: public/themes/landing/search/index.html:206
 #: public/themes/landing/search/index.html:218
 #: public/themes/landing/product/index.html:206
@@ -634,8 +617,7 @@ msgstr ""
 #: public/themes/landing/product/manufacturer.html:218
 #: public/themes/landing/blank-breadcrumb.html:210
 #: public/themes/landing/blank-breadcrumb.html:222
-#: public/themes/landing/about.html:210
-#: public/themes/landing/about.html:222
+#: public/themes/landing/about.html:210 public/themes/landing/about.html:222
 #: public/themes/landing/error404.html:206
 #: public/themes/landing/error404.html:218
 #: public/themes/landing/index.coming-soon.html:206
@@ -654,8 +636,7 @@ msgstr ""
 #: public/themes/landing/download.html:229
 #: public/themes/landing/cart/cart.html:205
 #: public/themes/landing/cart/cart.html:217
-#: public/themes/landing/blank.html:210
-#: public/themes/landing/blank.html:222
+#: public/themes/landing/blank.html:210 public/themes/landing/blank.html:222
 #: public/themes/landing/user/order.html:206
 #: public/themes/landing/user/order.html:218
 #: public/themes/landing/user/index.html:206
@@ -728,8 +709,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:228
 #: public/themes/landing/product/manufacturer.html:228
 #: public/themes/landing/blank-breadcrumb.html:232
-#: public/themes/landing/about.html:232
-#: public/themes/landing/error404.html:228
+#: public/themes/landing/about.html:232 public/themes/landing/error404.html:228
 #: public/themes/landing/index.coming-soon.html:228
 #: public/themes/landing/index-no-sidebar.html:228
 #: public/themes/landing/error500.html:228
@@ -781,8 +761,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:254
 #: public/themes/landing/product/manufacturer.html:254
 #: public/themes/landing/blank-breadcrumb.html:258
-#: public/themes/landing/about.html:258
-#: public/themes/landing/error404.html:254
+#: public/themes/landing/about.html:258 public/themes/landing/error404.html:254
 #: public/themes/landing/index.coming-soon.html:254
 #: public/themes/landing/index-no-sidebar.html:254
 #: public/themes/landing/error500.html:254
@@ -828,8 +807,7 @@ msgstr ""
 
 #: public/themes/landing/index-excerpts.html:271
 #: public/themes/landing/index-excerpts.html:1457
-#: public/themes/landing/index.html:281
-#: public/themes/landing/index.html:1828
+#: public/themes/landing/index.html:281 public/themes/landing/index.html:1828
 #: public/themes/landing/search/index.html:271
 #: public/themes/landing/search/index.html:1146
 #: public/themes/landing/product/index.html:271
@@ -844,8 +822,7 @@ msgstr ""
 #: public/themes/landing/product/manufacturer.html:941
 #: public/themes/landing/blank-breadcrumb.html:275
 #: public/themes/landing/blank-breadcrumb.html:742
-#: public/themes/landing/about.html:275
-#: public/themes/landing/about.html:912
+#: public/themes/landing/about.html:275 public/themes/landing/about.html:912
 #: public/themes/landing/error404.html:271
 #: public/themes/landing/error404.html:742
 #: public/themes/landing/index.coming-soon.html:271
@@ -864,8 +841,7 @@ msgstr ""
 #: public/themes/landing/download.html:768
 #: public/themes/landing/cart/cart.html:270
 #: public/themes/landing/cart/cart.html:989
-#: public/themes/landing/blank.html:275
-#: public/themes/landing/blank.html:709
+#: public/themes/landing/blank.html:275 public/themes/landing/blank.html:709
 #: public/themes/landing/user/order.html:271
 #: public/themes/landing/user/order.html:921
 #: public/themes/landing/user/index.html:271
@@ -940,8 +916,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:277
 #: public/themes/landing/product/manufacturer.html:277
 #: public/themes/landing/blank-breadcrumb.html:281
-#: public/themes/landing/about.html:281
-#: public/themes/landing/error404.html:277
+#: public/themes/landing/about.html:281 public/themes/landing/error404.html:277
 #: public/themes/landing/index.coming-soon.html:277
 #: public/themes/landing/index-no-sidebar.html:277
 #: public/themes/landing/error500.html:277
@@ -994,8 +969,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:282
 #: public/themes/landing/product/manufacturer.html:282
 #: public/themes/landing/blank-breadcrumb.html:286
-#: public/themes/landing/about.html:286
-#: public/themes/landing/error404.html:282
+#: public/themes/landing/about.html:286 public/themes/landing/error404.html:282
 #: public/themes/landing/index.coming-soon.html:282
 #: public/themes/landing/index-no-sidebar.html:282
 #: public/themes/landing/error500.html:282
@@ -1048,8 +1022,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:289
 #: public/themes/landing/product/manufacturer.html:289
 #: public/themes/landing/blank-breadcrumb.html:293
-#: public/themes/landing/about.html:293
-#: public/themes/landing/error404.html:289
+#: public/themes/landing/about.html:293 public/themes/landing/error404.html:289
 #: public/themes/landing/index.coming-soon.html:289
 #: public/themes/landing/index-no-sidebar.html:289
 #: public/themes/landing/error500.html:289
@@ -1096,8 +1069,7 @@ msgstr ""
 #: public/themes/landing/index-excerpts.html:294
 #: public/themes/landing/index-excerpts.html:1473
 #: public/themes/landing/index-excerpts.html:1476
-#: public/themes/landing/index.html:304
-#: public/themes/landing/index.html:1844
+#: public/themes/landing/index.html:304 public/themes/landing/index.html:1844
 #: public/themes/landing/index.html:1847
 #: public/themes/landing/search/index.html:294
 #: public/themes/landing/search/index.html:1162
@@ -1120,10 +1092,8 @@ msgstr ""
 #: public/themes/landing/blank-breadcrumb.html:298
 #: public/themes/landing/blank-breadcrumb.html:758
 #: public/themes/landing/blank-breadcrumb.html:761
-#: public/themes/landing/about.html:298
-#: public/themes/landing/about.html:928
-#: public/themes/landing/about.html:931
-#: public/themes/landing/error404.html:294
+#: public/themes/landing/about.html:298 public/themes/landing/about.html:928
+#: public/themes/landing/about.html:931 public/themes/landing/error404.html:294
 #: public/themes/landing/error404.html:758
 #: public/themes/landing/error404.html:761
 #: public/themes/landing/index.coming-soon.html:294
@@ -1150,8 +1120,7 @@ msgstr ""
 #: public/themes/landing/cart/cart.html:293
 #: public/themes/landing/cart/cart.html:1005
 #: public/themes/landing/cart/cart.html:1008
-#: public/themes/landing/blank.html:298
-#: public/themes/landing/blank.html:725
+#: public/themes/landing/blank.html:298 public/themes/landing/blank.html:725
 #: public/themes/landing/blank.html:728
 #: public/themes/landing/user/order.html:294
 #: public/themes/landing/user/order.html:937
@@ -1258,8 +1227,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:299
 #: public/themes/landing/product/manufacturer.html:299
 #: public/themes/landing/blank-breadcrumb.html:303
-#: public/themes/landing/about.html:303
-#: public/themes/landing/error404.html:299
+#: public/themes/landing/about.html:303 public/themes/landing/error404.html:299
 #: public/themes/landing/index.coming-soon.html:299
 #: public/themes/landing/index-no-sidebar.html:299
 #: public/themes/landing/error500.html:299
@@ -1312,8 +1280,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:308
 #: public/themes/landing/product/manufacturer.html:308
 #: public/themes/landing/blank-breadcrumb.html:312
-#: public/themes/landing/about.html:312
-#: public/themes/landing/error404.html:308
+#: public/themes/landing/about.html:312 public/themes/landing/error404.html:308
 #: public/themes/landing/index.coming-soon.html:308
 #: public/themes/landing/index-no-sidebar.html:308
 #: public/themes/landing/error500.html:308
@@ -1358,8 +1325,7 @@ msgid "User"
 msgstr ""
 
 #: public/themes/landing/index-excerpts.html:326
-#: public/themes/landing/index.html:336
-#: public/themes/landing/index.html:1695
+#: public/themes/landing/index.html:336 public/themes/landing/index.html:1695
 #: public/themes/landing/search/index.html:326
 #: public/themes/landing/product/product-reviews.html:300
 #: public/themes/landing/product/index.html:326
@@ -1371,8 +1337,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:326
 #: public/themes/landing/product/manufacturer.html:326
 #: public/themes/landing/blank-breadcrumb.html:330
-#: public/themes/landing/about.html:330
-#: public/themes/landing/error404.html:326
+#: public/themes/landing/about.html:330 public/themes/landing/error404.html:326
 #: public/themes/landing/index.coming-soon.html:326
 #: public/themes/landing/index-no-sidebar.html:326
 #: public/themes/landing/error500.html:326
@@ -1444,8 +1409,7 @@ msgid "This is a placeholder for a notification message."
 msgstr ""
 
 #: public/themes/landing/index-excerpts.html:346
-#: public/themes/landing/index.html:356
-#: public/themes/landing/index.html:1715
+#: public/themes/landing/index.html:356 public/themes/landing/index.html:1715
 #: public/themes/landing/search/index.html:346
 #: public/themes/landing/product/product-reviews.html:320
 #: public/themes/landing/product/index.html:346
@@ -1457,8 +1421,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:346
 #: public/themes/landing/product/manufacturer.html:346
 #: public/themes/landing/blank-breadcrumb.html:350
-#: public/themes/landing/about.html:350
-#: public/themes/landing/error404.html:346
+#: public/themes/landing/about.html:350 public/themes/landing/error404.html:346
 #: public/themes/landing/index.coming-soon.html:346
 #: public/themes/landing/index-no-sidebar.html:346
 #: public/themes/landing/error500.html:346
@@ -1530,8 +1493,7 @@ msgid "This is a placeholder for a success message."
 msgstr ""
 
 #: public/themes/landing/index-excerpts.html:363
-#: public/themes/landing/index.html:373
-#: public/themes/landing/index.html:1732
+#: public/themes/landing/index.html:373 public/themes/landing/index.html:1732
 #: public/themes/landing/search/index.html:363
 #: public/themes/landing/product/product-reviews.html:337
 #: public/themes/landing/product/index.html:363
@@ -1543,8 +1505,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:363
 #: public/themes/landing/product/manufacturer.html:363
 #: public/themes/landing/blank-breadcrumb.html:367
-#: public/themes/landing/about.html:367
-#: public/themes/landing/error404.html:363
+#: public/themes/landing/about.html:367 public/themes/landing/error404.html:363
 #: public/themes/landing/index.coming-soon.html:363
 #: public/themes/landing/index-no-sidebar.html:363
 #: public/themes/landing/error500.html:363
@@ -1624,8 +1585,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:382
 #: public/themes/landing/product/manufacturer.html:382
 #: public/themes/landing/blank-breadcrumb.html:386
-#: public/themes/landing/about.html:386
-#: public/themes/landing/error404.html:382
+#: public/themes/landing/about.html:386 public/themes/landing/error404.html:382
 #: public/themes/landing/index.coming-soon.html:382
 #: public/themes/landing/index-no-sidebar.html:382
 #: public/themes/landing/error500.html:382
@@ -1680,8 +1640,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:387
 #: public/themes/landing/product/manufacturer.html:387
 #: public/themes/landing/blank-breadcrumb.html:391
-#: public/themes/landing/about.html:391
-#: public/themes/landing/error404.html:387
+#: public/themes/landing/about.html:391 public/themes/landing/error404.html:387
 #: public/themes/landing/index.coming-soon.html:387
 #: public/themes/landing/index-no-sidebar.html:387
 #: public/themes/landing/error500.html:387
@@ -1738,8 +1697,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:396
 #: public/themes/landing/product/manufacturer.html:396
 #: public/themes/landing/blank-breadcrumb.html:400
-#: public/themes/landing/about.html:400
-#: public/themes/landing/error404.html:396
+#: public/themes/landing/about.html:400 public/themes/landing/error404.html:396
 #: public/themes/landing/index.coming-soon.html:396
 #: public/themes/landing/index-no-sidebar.html:396
 #: public/themes/landing/error500.html:396
@@ -1785,16 +1743,11 @@ msgstr ""
 
 #: public/themes/landing/index-excerpts.html:396
 #: public/themes/landing/index-excerpts.html:447
-#: public/themes/landing/index.html:406
-#: public/themes/landing/index.html:457
-#: public/themes/landing/index.html:876
-#: public/themes/landing/index.html:939
-#: public/themes/landing/index.html:1002
-#: public/themes/landing/index.html:1065
-#: public/themes/landing/index.html:1128
-#: public/themes/landing/index.html:1191
-#: public/themes/landing/index.html:1254
-#: public/themes/landing/index.html:1317
+#: public/themes/landing/index.html:406 public/themes/landing/index.html:457
+#: public/themes/landing/index.html:876 public/themes/landing/index.html:939
+#: public/themes/landing/index.html:1002 public/themes/landing/index.html:1065
+#: public/themes/landing/index.html:1128 public/themes/landing/index.html:1191
+#: public/themes/landing/index.html:1254 public/themes/landing/index.html:1317
 #: public/themes/landing/search/index.html:396
 #: public/themes/landing/search/index.html:447
 #: public/themes/landing/search/index.html:753
@@ -1825,8 +1778,7 @@ msgstr ""
 #: public/themes/landing/product/manufacturer.html:833
 #: public/themes/landing/blank-breadcrumb.html:400
 #: public/themes/landing/blank-breadcrumb.html:451
-#: public/themes/landing/about.html:400
-#: public/themes/landing/about.html:451
+#: public/themes/landing/about.html:400 public/themes/landing/about.html:451
 #: public/themes/landing/error404.html:396
 #: public/themes/landing/error404.html:447
 #: public/themes/landing/index.coming-soon.html:396
@@ -1848,8 +1800,7 @@ msgstr ""
 #: public/themes/landing/cart/cart.html:913
 #: public/themes/landing/blocks/product/product-1.html:48
 #: public/themes/landing/blocks/product.html:48
-#: public/themes/landing/blank.html:400
-#: public/themes/landing/blank.html:451
+#: public/themes/landing/blank.html:400 public/themes/landing/blank.html:451
 #: public/themes/landing/user/order.html:396
 #: public/themes/landing/user/order.html:447
 #: public/themes/landing/user/order.html:703
@@ -1938,8 +1889,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:400
 #: public/themes/landing/product/manufacturer.html:400
 #: public/themes/landing/blank-breadcrumb.html:404
-#: public/themes/landing/about.html:404
-#: public/themes/landing/error404.html:400
+#: public/themes/landing/about.html:404 public/themes/landing/error404.html:400
 #: public/themes/landing/index.coming-soon.html:400
 #: public/themes/landing/index-no-sidebar.html:400
 #: public/themes/landing/error500.html:400
@@ -1993,8 +1943,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:405
 #: public/themes/landing/product/manufacturer.html:405
 #: public/themes/landing/blank-breadcrumb.html:409
-#: public/themes/landing/about.html:409
-#: public/themes/landing/error404.html:405
+#: public/themes/landing/about.html:409 public/themes/landing/error404.html:405
 #: public/themes/landing/index.coming-soon.html:405
 #: public/themes/landing/index-no-sidebar.html:405
 #: public/themes/landing/error500.html:405
@@ -2046,8 +1995,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:410
 #: public/themes/landing/product/manufacturer.html:410
 #: public/themes/landing/blank-breadcrumb.html:414
-#: public/themes/landing/about.html:414
-#: public/themes/landing/error404.html:410
+#: public/themes/landing/about.html:414 public/themes/landing/error404.html:410
 #: public/themes/landing/index.coming-soon.html:410
 #: public/themes/landing/index-no-sidebar.html:410
 #: public/themes/landing/error500.html:410
@@ -2100,8 +2048,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:411
 #: public/themes/landing/product/manufacturer.html:411
 #: public/themes/landing/blank-breadcrumb.html:415
-#: public/themes/landing/about.html:415
-#: public/themes/landing/error404.html:411
+#: public/themes/landing/about.html:415 public/themes/landing/error404.html:411
 #: public/themes/landing/index.coming-soon.html:411
 #: public/themes/landing/index-no-sidebar.html:411
 #: public/themes/landing/error500.html:411
@@ -2154,8 +2101,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:417
 #: public/themes/landing/product/manufacturer.html:417
 #: public/themes/landing/blank-breadcrumb.html:421
-#: public/themes/landing/about.html:421
-#: public/themes/landing/error404.html:417
+#: public/themes/landing/about.html:421 public/themes/landing/error404.html:417
 #: public/themes/landing/index.coming-soon.html:417
 #: public/themes/landing/index-no-sidebar.html:417
 #: public/themes/landing/error500.html:417
@@ -2208,8 +2154,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:417
 #: public/themes/landing/product/manufacturer.html:417
 #: public/themes/landing/blank-breadcrumb.html:421
-#: public/themes/landing/about.html:421
-#: public/themes/landing/error404.html:417
+#: public/themes/landing/about.html:421 public/themes/landing/error404.html:417
 #: public/themes/landing/index.coming-soon.html:417
 #: public/themes/landing/index-no-sidebar.html:417
 #: public/themes/landing/email/order/new.html:284
@@ -2266,8 +2211,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:418
 #: public/themes/landing/product/manufacturer.html:418
 #: public/themes/landing/blank-breadcrumb.html:422
-#: public/themes/landing/about.html:422
-#: public/themes/landing/error404.html:418
+#: public/themes/landing/about.html:422 public/themes/landing/error404.html:418
 #: public/themes/landing/index.coming-soon.html:418
 #: public/themes/landing/index-no-sidebar.html:418
 #: public/themes/landing/email/order/new.html:285
@@ -2324,8 +2268,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:423
 #: public/themes/landing/product/manufacturer.html:423
 #: public/themes/landing/blank-breadcrumb.html:427
-#: public/themes/landing/about.html:427
-#: public/themes/landing/error404.html:423
+#: public/themes/landing/about.html:427 public/themes/landing/error404.html:423
 #: public/themes/landing/index.coming-soon.html:423
 #: public/themes/landing/index-no-sidebar.html:423
 #: public/themes/landing/error500.html:423
@@ -2377,8 +2320,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:426
 #: public/themes/landing/product/manufacturer.html:426
 #: public/themes/landing/blank-breadcrumb.html:430
-#: public/themes/landing/about.html:430
-#: public/themes/landing/error404.html:426
+#: public/themes/landing/about.html:430 public/themes/landing/error404.html:426
 #: public/themes/landing/index.coming-soon.html:426
 #: public/themes/landing/index-no-sidebar.html:426
 #: public/themes/landing/error500.html:426
@@ -2442,8 +2384,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:429
 #: public/themes/landing/product/manufacturer.html:429
 #: public/themes/landing/blank-breadcrumb.html:433
-#: public/themes/landing/about.html:433
-#: public/themes/landing/error404.html:429
+#: public/themes/landing/about.html:433 public/themes/landing/error404.html:429
 #: public/themes/landing/index.coming-soon.html:429
 #: public/themes/landing/index-no-sidebar.html:429
 #: public/themes/landing/error500.html:429
@@ -2497,8 +2438,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:432
 #: public/themes/landing/product/manufacturer.html:432
 #: public/themes/landing/blank-breadcrumb.html:436
-#: public/themes/landing/about.html:436
-#: public/themes/landing/error404.html:432
+#: public/themes/landing/about.html:436 public/themes/landing/error404.html:432
 #: public/themes/landing/index.coming-soon.html:432
 #: public/themes/landing/index-no-sidebar.html:432
 #: public/themes/landing/error500.html:432
@@ -2559,8 +2499,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:435
 #: public/themes/landing/product/manufacturer.html:435
 #: public/themes/landing/blank-breadcrumb.html:439
-#: public/themes/landing/about.html:439
-#: public/themes/landing/error404.html:435
+#: public/themes/landing/about.html:439 public/themes/landing/error404.html:435
 #: public/themes/landing/index.coming-soon.html:435
 #: public/themes/landing/index-no-sidebar.html:435
 #: public/themes/landing/error500.html:435
@@ -2617,8 +2556,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:447
 #: public/themes/landing/product/manufacturer.html:447
 #: public/themes/landing/blank-breadcrumb.html:451
-#: public/themes/landing/about.html:451
-#: public/themes/landing/error404.html:447
+#: public/themes/landing/about.html:451 public/themes/landing/error404.html:447
 #: public/themes/landing/index.coming-soon.html:447
 #: public/themes/landing/index-no-sidebar.html:447
 #: public/themes/landing/error500.html:447
@@ -2685,8 +2623,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:451
 #: public/themes/landing/product/manufacturer.html:451
 #: public/themes/landing/blank-breadcrumb.html:455
-#: public/themes/landing/about.html:455
-#: public/themes/landing/error404.html:451
+#: public/themes/landing/about.html:455 public/themes/landing/error404.html:451
 #: public/themes/landing/index.coming-soon.html:451
 #: public/themes/landing/index-no-sidebar.html:451
 #: public/themes/landing/error500.html:451
@@ -2741,8 +2678,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:470
 #: public/themes/landing/product/manufacturer.html:470
 #: public/themes/landing/blank-breadcrumb.html:474
-#: public/themes/landing/about.html:474
-#: public/themes/landing/error404.html:470
+#: public/themes/landing/about.html:474 public/themes/landing/error404.html:470
 #: public/themes/landing/index.coming-soon.html:470
 #: public/themes/landing/index-no-sidebar.html:470
 #: public/themes/landing/error500.html:470
@@ -2788,8 +2724,7 @@ msgstr ""
 
 #: public/themes/landing/index-excerpts.html:491
 #: public/themes/landing/index-excerpts.html:528
-#: public/themes/landing/index.html:501
-#: public/themes/landing/index.html:538
+#: public/themes/landing/index.html:501 public/themes/landing/index.html:538
 #: public/themes/landing/search/index.html:491
 #: public/themes/landing/search/index.html:528
 #: public/themes/landing/product/index.html:491
@@ -2804,8 +2739,7 @@ msgstr ""
 #: public/themes/landing/product/manufacturer.html:528
 #: public/themes/landing/blank-breadcrumb.html:495
 #: public/themes/landing/blank-breadcrumb.html:532
-#: public/themes/landing/about.html:495
-#: public/themes/landing/about.html:532
+#: public/themes/landing/about.html:495 public/themes/landing/about.html:532
 #: public/themes/landing/error404.html:491
 #: public/themes/landing/error404.html:528
 #: public/themes/landing/index.coming-soon.html:491
@@ -2828,8 +2762,7 @@ msgstr ""
 #: public/themes/landing/cart/cart.html:527
 #: public/themes/landing/cart/cart.html:683
 #: public/themes/landing/cart/cart.html:739
-#: public/themes/landing/blank.html:495
-#: public/themes/landing/blank.html:532
+#: public/themes/landing/blank.html:495 public/themes/landing/blank.html:532
 #: public/themes/landing/user/order.html:491
 #: public/themes/landing/user/order.html:528
 #: public/themes/landing/user/index.html:491
@@ -2898,8 +2831,7 @@ msgstr ""
 #: public/themes/landing/index-excerpts.html:496
 #: public/themes/landing/index-excerpts.html:533
 #: public/themes/landing/index-excerpts.html:592
-#: public/themes/landing/index.html:506
-#: public/themes/landing/index.html:543
+#: public/themes/landing/index.html:506 public/themes/landing/index.html:543
 #: public/themes/landing/index.html:602
 #: public/themes/landing/search/index.html:496
 #: public/themes/landing/search/index.html:533
@@ -2922,10 +2854,8 @@ msgstr ""
 #: public/themes/landing/blank-breadcrumb.html:500
 #: public/themes/landing/blank-breadcrumb.html:537
 #: public/themes/landing/blank-breadcrumb.html:596
-#: public/themes/landing/about.html:500
-#: public/themes/landing/about.html:537
-#: public/themes/landing/about.html:596
-#: public/themes/landing/error404.html:496
+#: public/themes/landing/about.html:500 public/themes/landing/about.html:537
+#: public/themes/landing/about.html:596 public/themes/landing/error404.html:496
 #: public/themes/landing/error404.html:533
 #: public/themes/landing/error404.html:592
 #: public/themes/landing/index.coming-soon.html:496
@@ -2955,8 +2885,7 @@ msgstr ""
 #: public/themes/landing/cart/cart.html:532
 #: public/themes/landing/cart/cart.html:591
 #: public/themes/landing/cart/cart.html:818
-#: public/themes/landing/blank.html:500
-#: public/themes/landing/blank.html:537
+#: public/themes/landing/blank.html:500 public/themes/landing/blank.html:537
 #: public/themes/landing/blank.html:596
 #: public/themes/landing/user/order.html:496
 #: public/themes/landing/user/order.html:533
@@ -3065,8 +2994,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:500
 #: public/themes/landing/product/manufacturer.html:500
 #: public/themes/landing/blank-breadcrumb.html:504
-#: public/themes/landing/about.html:504
-#: public/themes/landing/error404.html:500
+#: public/themes/landing/about.html:504 public/themes/landing/error404.html:500
 #: public/themes/landing/index.coming-soon.html:500
 #: public/themes/landing/index-no-sidebar.html:500
 #: public/themes/landing/error500.html:500
@@ -3120,8 +3048,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:500
 #: public/themes/landing/product/manufacturer.html:500
 #: public/themes/landing/blank-breadcrumb.html:504
-#: public/themes/landing/about.html:504
-#: public/themes/landing/error404.html:500
+#: public/themes/landing/about.html:504 public/themes/landing/error404.html:500
 #: public/themes/landing/index.coming-soon.html:500
 #: public/themes/landing/index-no-sidebar.html:500
 #: public/themes/landing/error500.html:500
@@ -3177,8 +3104,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:503
 #: public/themes/landing/product/manufacturer.html:503
 #: public/themes/landing/blank-breadcrumb.html:507
-#: public/themes/landing/about.html:507
-#: public/themes/landing/error404.html:503
+#: public/themes/landing/about.html:507 public/themes/landing/error404.html:503
 #: public/themes/landing/index.coming-soon.html:503
 #: public/themes/landing/index-no-sidebar.html:503
 #: public/themes/landing/error500.html:503
@@ -3234,8 +3160,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:503
 #: public/themes/landing/product/manufacturer.html:503
 #: public/themes/landing/blank-breadcrumb.html:507
-#: public/themes/landing/about.html:507
-#: public/themes/landing/error404.html:503
+#: public/themes/landing/about.html:507 public/themes/landing/error404.html:503
 #: public/themes/landing/index.coming-soon.html:503
 #: public/themes/landing/index-no-sidebar.html:503
 #: public/themes/landing/error500.html:503
@@ -3289,8 +3214,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:506
 #: public/themes/landing/product/manufacturer.html:506
 #: public/themes/landing/blank-breadcrumb.html:510
-#: public/themes/landing/about.html:510
-#: public/themes/landing/error404.html:506
+#: public/themes/landing/about.html:510 public/themes/landing/error404.html:506
 #: public/themes/landing/index.coming-soon.html:506
 #: public/themes/landing/index-no-sidebar.html:506
 #: public/themes/landing/error500.html:506
@@ -3344,8 +3268,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:506
 #: public/themes/landing/product/manufacturer.html:506
 #: public/themes/landing/blank-breadcrumb.html:510
-#: public/themes/landing/about.html:510
-#: public/themes/landing/error404.html:506
+#: public/themes/landing/about.html:510 public/themes/landing/error404.html:506
 #: public/themes/landing/index.coming-soon.html:506
 #: public/themes/landing/index-no-sidebar.html:506
 #: public/themes/landing/error500.html:506
@@ -3399,8 +3322,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:511
 #: public/themes/landing/product/manufacturer.html:511
 #: public/themes/landing/blank-breadcrumb.html:515
-#: public/themes/landing/about.html:515
-#: public/themes/landing/error404.html:511
+#: public/themes/landing/about.html:515 public/themes/landing/error404.html:511
 #: public/themes/landing/index.coming-soon.html:511
 #: public/themes/landing/index-no-sidebar.html:511
 #: public/themes/landing/error500.html:511
@@ -3454,8 +3376,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:551
 #: public/themes/landing/product/manufacturer.html:551
 #: public/themes/landing/blank-breadcrumb.html:555
-#: public/themes/landing/about.html:555
-#: public/themes/landing/error404.html:551
+#: public/themes/landing/about.html:555 public/themes/landing/error404.html:551
 #: public/themes/landing/index.coming-soon.html:551
 #: public/themes/landing/index-no-sidebar.html:551
 #: public/themes/landing/error500.html:551
@@ -3509,8 +3430,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:553
 #: public/themes/landing/product/manufacturer.html:553
 #: public/themes/landing/blank-breadcrumb.html:557
-#: public/themes/landing/about.html:557
-#: public/themes/landing/error404.html:553
+#: public/themes/landing/about.html:557 public/themes/landing/error404.html:553
 #: public/themes/landing/index.coming-soon.html:553
 #: public/themes/landing/index-no-sidebar.html:553
 #: public/themes/landing/error500.html:553
@@ -3562,8 +3482,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:569
 #: public/themes/landing/product/manufacturer.html:569
 #: public/themes/landing/blank-breadcrumb.html:573
-#: public/themes/landing/about.html:573
-#: public/themes/landing/error404.html:569
+#: public/themes/landing/about.html:573 public/themes/landing/error404.html:569
 #: public/themes/landing/index.coming-soon.html:569
 #: public/themes/landing/index-no-sidebar.html:569
 #: public/themes/landing/email/order/new.html:362
@@ -3619,8 +3538,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:573
 #: public/themes/landing/product/manufacturer.html:573
 #: public/themes/landing/blank-breadcrumb.html:577
-#: public/themes/landing/about.html:577
-#: public/themes/landing/error404.html:573
+#: public/themes/landing/about.html:577 public/themes/landing/error404.html:573
 #: public/themes/landing/index.coming-soon.html:573
 #: public/themes/landing/index-no-sidebar.html:573
 #: public/themes/landing/email/order/new.html:365
@@ -3678,8 +3596,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:578
 #: public/themes/landing/product/manufacturer.html:578
 #: public/themes/landing/blank-breadcrumb.html:582
-#: public/themes/landing/about.html:582
-#: public/themes/landing/error404.html:578
+#: public/themes/landing/about.html:582 public/themes/landing/error404.html:578
 #: public/themes/landing/index.coming-soon.html:578
 #: public/themes/landing/index-no-sidebar.html:578
 #: public/themes/landing/email/order/new.html:371
@@ -3734,8 +3651,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:580
 #: public/themes/landing/product/manufacturer.html:580
 #: public/themes/landing/blank-breadcrumb.html:584
-#: public/themes/landing/about.html:584
-#: public/themes/landing/error404.html:580
+#: public/themes/landing/about.html:584 public/themes/landing/error404.html:580
 #: public/themes/landing/index.coming-soon.html:580
 #: public/themes/landing/index-no-sidebar.html:580
 #: public/themes/landing/email/order/new.html:373
@@ -3790,8 +3706,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:584
 #: public/themes/landing/product/manufacturer.html:584
 #: public/themes/landing/blank-breadcrumb.html:588
-#: public/themes/landing/about.html:588
-#: public/themes/landing/error404.html:584
+#: public/themes/landing/about.html:588 public/themes/landing/error404.html:584
 #: public/themes/landing/index.coming-soon.html:584
 #: public/themes/landing/index-no-sidebar.html:584
 #: public/themes/landing/email/order/new.html:377
@@ -3846,8 +3761,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:586
 #: public/themes/landing/product/manufacturer.html:586
 #: public/themes/landing/blank-breadcrumb.html:590
-#: public/themes/landing/about.html:590
-#: public/themes/landing/error404.html:586
+#: public/themes/landing/about.html:590 public/themes/landing/error404.html:586
 #: public/themes/landing/index.coming-soon.html:586
 #: public/themes/landing/index-no-sidebar.html:586
 #: public/themes/landing/email/order/new.html:379
@@ -3895,8 +3809,7 @@ msgstr ""
 
 #: public/themes/landing/index-excerpts.html:590
 #: public/themes/landing/index-excerpts.html:595
-#: public/themes/landing/index.html:600
-#: public/themes/landing/index.html:605
+#: public/themes/landing/index.html:600 public/themes/landing/index.html:605
 #: public/themes/landing/search/index.html:590
 #: public/themes/landing/search/index.html:595
 #: public/themes/landing/product/index.html:590
@@ -3911,8 +3824,7 @@ msgstr ""
 #: public/themes/landing/product/manufacturer.html:595
 #: public/themes/landing/blank-breadcrumb.html:594
 #: public/themes/landing/blank-breadcrumb.html:599
-#: public/themes/landing/about.html:594
-#: public/themes/landing/about.html:599
+#: public/themes/landing/about.html:594 public/themes/landing/about.html:599
 #: public/themes/landing/error404.html:590
 #: public/themes/landing/error404.html:595
 #: public/themes/landing/index.coming-soon.html:590
@@ -3936,8 +3848,7 @@ msgstr ""
 #: public/themes/landing/cart/cart.html:594
 #: public/themes/landing/cart/cart.html:816
 #: public/themes/landing/cart/cart.html:821
-#: public/themes/landing/blank.html:594
-#: public/themes/landing/blank.html:599
+#: public/themes/landing/blank.html:594 public/themes/landing/blank.html:599
 #: public/themes/landing/user/order.html:590
 #: public/themes/landing/user/order.html:595
 #: public/themes/landing/user/index.html:590
@@ -4012,8 +3923,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:596
 #: public/themes/landing/product/manufacturer.html:596
 #: public/themes/landing/blank-breadcrumb.html:600
-#: public/themes/landing/about.html:600
-#: public/themes/landing/error404.html:596
+#: public/themes/landing/about.html:600 public/themes/landing/error404.html:596
 #: public/themes/landing/index.coming-soon.html:596
 #: public/themes/landing/index-no-sidebar.html:596
 #: public/themes/landing/error500.html:596
@@ -4067,8 +3977,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:609
 #: public/themes/landing/product/manufacturer.html:609
 #: public/themes/landing/blank-breadcrumb.html:613
-#: public/themes/landing/about.html:613
-#: public/themes/landing/error404.html:609
+#: public/themes/landing/about.html:613 public/themes/landing/error404.html:609
 #: public/themes/landing/index.coming-soon.html:609
 #: public/themes/landing/index-no-sidebar.html:609
 #: public/themes/landing/error500.html:609
@@ -4120,8 +4029,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:614
 #: public/themes/landing/product/manufacturer.html:614
 #: public/themes/landing/blank-breadcrumb.html:618
-#: public/themes/landing/about.html:618
-#: public/themes/landing/error404.html:614
+#: public/themes/landing/about.html:618 public/themes/landing/error404.html:614
 #: public/themes/landing/index.coming-soon.html:614
 #: public/themes/landing/index-no-sidebar.html:614
 #: public/themes/landing/error500.html:614
@@ -4496,7 +4404,7 @@ msgstr "Последние сообщения"
 #: public/themes/landing/content/tag.html:1047
 #: public/themes/landing/content/tag.html:1075
 msgid "January 2021"
-msgstr "январь 2021 г."
+msgstr "Январь 2021"
 
 #: public/themes/landing/index-excerpts.html:1288
 #: public/themes/landing/search/index.html:976
@@ -4510,14 +4418,11 @@ msgstr "Последние комментарии"
 
 #: public/themes/landing/index-excerpts.html:1291
 #: public/themes/landing/index-excerpts.html:1298
-#: public/themes/landing/index.html:1363
-#: public/themes/landing/index.html:1398
+#: public/themes/landing/index.html:1363 public/themes/landing/index.html:1398
 #: public/themes/landing/search/index.html:979
 #: public/themes/landing/search/index.html:986
-#: public/themes/landing/about.html:697
-#: public/themes/landing/about.html:744
-#: public/themes/landing/about.html:791
-#: public/themes/landing/about.html:838
+#: public/themes/landing/about.html:697 public/themes/landing/about.html:744
+#: public/themes/landing/about.html:791 public/themes/landing/about.html:838
 #: public/themes/landing/content/index.html:961
 #: public/themes/landing/content/index.html:968
 #: public/themes/landing/content/category.html:972
@@ -4546,7 +4451,7 @@ msgstr "Джон Доу"
 #: public/themes/landing/content/tag.html:974
 #: public/themes/landing/content/tag.html:980
 msgid "on"
-msgstr "вкл."
+msgstr "включить"
 
 #: public/themes/landing/index-excerpts.html:1294
 #: public/themes/landing/index-excerpts.html:1300
@@ -4660,7 +4565,7 @@ msgstr "Архивы"
 #: public/themes/landing/content/tag.html:1050
 #: public/themes/landing/content/tag.html:1079
 msgid "December 2020"
-msgstr "декабрь 2020 г."
+msgstr "Декабрь 2020"
 
 #: public/themes/landing/index-excerpts.html:1345
 #: public/themes/landing/index-excerpts.html:1371
@@ -4684,7 +4589,7 @@ msgstr "декабрь 2020 г."
 #: public/themes/landing/content/tag.html:1053
 #: public/themes/landing/content/tag.html:1083
 msgid "November 2018"
-msgstr "ноябрь 2018 г."
+msgstr "Ноябрь 2018"
 
 #: public/themes/landing/index-excerpts.html:1350
 #: public/themes/landing/index-excerpts.html:1374
@@ -4708,7 +4613,7 @@ msgstr "ноябрь 2018 г."
 #: public/themes/landing/content/tag.html:1056
 #: public/themes/landing/content/tag.html:1087
 msgid "October 2018"
-msgstr "октябрь 2018 г."
+msgstr "Октябрь 2018"
 
 #: public/themes/landing/index-excerpts.html:1361
 #: public/themes/landing/search/index.html:1049
@@ -4733,8 +4638,7 @@ msgstr "Выбрать месяц"
 #: public/themes/landing/index-excerpts.html:1441
 #: public/themes/landing/index-excerpts.html:1497
 #: public/themes/landing/index-excerpts.html:1498
-#: public/themes/landing/index.html:1812
-#: public/themes/landing/index.html:1868
+#: public/themes/landing/index.html:1812 public/themes/landing/index.html:1868
 #: public/themes/landing/index.html:1869
 #: public/themes/landing/search/index.html:1130
 #: public/themes/landing/search/index.html:1186
@@ -4757,10 +4661,8 @@ msgstr "Выбрать месяц"
 #: public/themes/landing/blank-breadcrumb.html:726
 #: public/themes/landing/blank-breadcrumb.html:782
 #: public/themes/landing/blank-breadcrumb.html:783
-#: public/themes/landing/about.html:896
-#: public/themes/landing/about.html:952
-#: public/themes/landing/about.html:953
-#: public/themes/landing/error404.html:726
+#: public/themes/landing/about.html:896 public/themes/landing/about.html:952
+#: public/themes/landing/about.html:953 public/themes/landing/error404.html:726
 #: public/themes/landing/error404.html:782
 #: public/themes/landing/error404.html:783
 #: public/themes/landing/index.coming-soon.html:686
@@ -4801,8 +4703,7 @@ msgstr "Выбрать месяц"
 #: public/themes/landing/cart/cart.html:973
 #: public/themes/landing/cart/cart.html:1029
 #: public/themes/landing/cart/cart.html:1030
-#: public/themes/landing/blank.html:693
-#: public/themes/landing/blank.html:749
+#: public/themes/landing/blank.html:693 public/themes/landing/blank.html:749
 #: public/themes/landing/blank.html:750
 #: public/themes/landing/user/order.html:905
 #: public/themes/landing/user/order.html:961
@@ -4909,8 +4810,7 @@ msgstr "Вввеб"
 #: public/themes/landing/product/vendor.html:931
 #: public/themes/landing/product/manufacturer.html:929
 #: public/themes/landing/blank-breadcrumb.html:730
-#: public/themes/landing/about.html:900
-#: public/themes/landing/error404.html:730
+#: public/themes/landing/about.html:900 public/themes/landing/error404.html:730
 #: public/themes/landing/index.coming-soon.html:690
 #: public/themes/landing/index-no-sidebar.html:1701
 #: public/themes/landing/error500.html:750
@@ -4963,8 +4863,7 @@ msgstr "Темы"
 #: public/themes/landing/product/vendor.html:936
 #: public/themes/landing/product/manufacturer.html:934
 #: public/themes/landing/blank-breadcrumb.html:735
-#: public/themes/landing/about.html:905
-#: public/themes/landing/error404.html:735
+#: public/themes/landing/about.html:905 public/themes/landing/error404.html:735
 #: public/themes/landing/index.coming-soon.html:695
 #: public/themes/landing/index-no-sidebar.html:1706
 #: public/themes/landing/error500.html:755
@@ -5017,8 +4916,7 @@ msgstr "Плагины"
 #: public/themes/landing/product/vendor.html:947
 #: public/themes/landing/product/manufacturer.html:945
 #: public/themes/landing/blank-breadcrumb.html:746
-#: public/themes/landing/about.html:916
-#: public/themes/landing/error404.html:746
+#: public/themes/landing/about.html:916 public/themes/landing/error404.html:746
 #: public/themes/landing/index.coming-soon.html:706
 #: public/themes/landing/index-no-sidebar.html:1717
 #: public/themes/landing/error500.html:766
@@ -5071,8 +4969,7 @@ msgstr "Документация пользователя"
 #: public/themes/landing/product/vendor.html:952
 #: public/themes/landing/product/manufacturer.html:950
 #: public/themes/landing/blank-breadcrumb.html:751
-#: public/themes/landing/about.html:921
-#: public/themes/landing/error404.html:751
+#: public/themes/landing/about.html:921 public/themes/landing/error404.html:751
 #: public/themes/landing/index.coming-soon.html:711
 #: public/themes/landing/index-no-sidebar.html:1722
 #: public/themes/landing/error500.html:771
@@ -5125,8 +5022,7 @@ msgstr "Документация разработчика"
 #: public/themes/landing/product/vendor.html:978
 #: public/themes/landing/product/manufacturer.html:976
 #: public/themes/landing/blank-breadcrumb.html:777
-#: public/themes/landing/about.html:947
-#: public/themes/landing/error404.html:777
+#: public/themes/landing/about.html:947 public/themes/landing/error404.html:777
 #: public/themes/landing/index.coming-soon.html:737
 #: public/themes/landing/index-no-sidebar.html:1748
 #: public/themes/landing/error500.html:797
@@ -5181,8 +5077,7 @@ msgstr "Правила и условия"
 #: public/themes/landing/product/vendor.html:979
 #: public/themes/landing/product/manufacturer.html:977
 #: public/themes/landing/blank-breadcrumb.html:778
-#: public/themes/landing/about.html:948
-#: public/themes/landing/error404.html:778
+#: public/themes/landing/about.html:948 public/themes/landing/error404.html:778
 #: public/themes/landing/index.coming-soon.html:738
 #: public/themes/landing/index-no-sidebar.html:1749
 #: public/themes/landing/error500.html:798
@@ -5235,8 +5130,7 @@ msgstr "Политика конфиденциальности"
 #: public/themes/landing/product/vendor.html:982
 #: public/themes/landing/product/manufacturer.html:980
 #: public/themes/landing/blank-breadcrumb.html:781
-#: public/themes/landing/about.html:951
-#: public/themes/landing/error404.html:781
+#: public/themes/landing/about.html:951 public/themes/landing/error404.html:781
 #: public/themes/landing/index.coming-soon.html:741
 #: public/themes/landing/index-no-sidebar.html:1752
 #: public/themes/landing/error500.html:801
@@ -5289,8 +5183,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:982
 #: public/themes/landing/product/manufacturer.html:980
 #: public/themes/landing/blank-breadcrumb.html:781
-#: public/themes/landing/about.html:951
-#: public/themes/landing/error404.html:781
+#: public/themes/landing/about.html:951 public/themes/landing/error404.html:781
 #: public/themes/landing/index.coming-soon.html:741
 #: public/themes/landing/index-no-sidebar.html:1752
 #: public/themes/landing/error500.html:801
@@ -5345,8 +5238,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:983
 #: public/themes/landing/product/manufacturer.html:981
 #: public/themes/landing/blank-breadcrumb.html:782
-#: public/themes/landing/about.html:952
-#: public/themes/landing/error404.html:782
+#: public/themes/landing/about.html:952 public/themes/landing/error404.html:782
 #: public/themes/landing/index.coming-soon.html:742
 #: public/themes/landing/index-no-sidebar.html:1753
 #: public/themes/landing/error500.html:802
@@ -5399,8 +5291,7 @@ msgstr ""
 #: public/themes/landing/product/vendor.html:999
 #: public/themes/landing/product/manufacturer.html:997
 #: public/themes/landing/blank-breadcrumb.html:798
-#: public/themes/landing/about.html:968
-#: public/themes/landing/error404.html:798
+#: public/themes/landing/about.html:968 public/themes/landing/error404.html:798
 #: public/themes/landing/index.coming-soon.html:758
 #: public/themes/landing/index-no-sidebar.html:1769
 #: public/themes/landing/error500.html:818
@@ -5517,24 +5408,20 @@ msgstr ""
 msgid "Code editor with syntax highglighting that updates in real time"
 msgstr ""
 
-#: public/themes/landing/index.html:783
-#: public/themes/landing/index.html:802
+#: public/themes/landing/index.html:783 public/themes/landing/index.html:802
 msgid "The html for sections blocks and components and this template are built using Bootstrap."
 msgstr ""
 
-#: public/themes/landing/index.html:784
-#: public/themes/landing/index.html:803
+#: public/themes/landing/index.html:784 public/themes/landing/index.html:803
 msgid "Use any of the hundreds fonts from google fonts for your design."
 msgstr ""
 
-#: public/themes/landing/index.html:785
-#: public/themes/landing/index.html:804
+#: public/themes/landing/index.html:785 public/themes/landing/index.html:804
 #: public/themes/landing/index-landing.html:219
 msgid "Powerful and easy to use drag and drop builder for blogs, websites or ecommerce stores."
 msgstr "Мощный и простой в использовании конструктор перетаскивания для блогов, веб-сайтов или магазинов электронной коммерции."
 
-#: public/themes/landing/index.html:787
-#: public/themes/landing/index.html:806
+#: public/themes/landing/index.html:787 public/themes/landing/index.html:806
 msgid "Learn More"
 msgstr "Подробнее"
 
@@ -5550,14 +5437,10 @@ msgstr "Интуитивное построение с помощью прост
 msgid "Popular Products"
 msgstr "Популярные товары"
 
-#: public/themes/landing/index.html:863
-#: public/themes/landing/index.html:926
-#: public/themes/landing/index.html:989
-#: public/themes/landing/index.html:1052
-#: public/themes/landing/index.html:1115
-#: public/themes/landing/index.html:1178
-#: public/themes/landing/index.html:1241
-#: public/themes/landing/index.html:1304
+#: public/themes/landing/index.html:863 public/themes/landing/index.html:926
+#: public/themes/landing/index.html:989 public/themes/landing/index.html:1052
+#: public/themes/landing/index.html:1115 public/themes/landing/index.html:1178
+#: public/themes/landing/index.html:1241 public/themes/landing/index.html:1304
 #: public/themes/landing/search/index.html:740
 #: public/themes/landing/product/index.html:852
 #: public/themes/landing/product/category.html:820
@@ -5569,14 +5452,10 @@ msgstr "Популярные товары"
 msgid "Product 8"
 msgstr "Продукт 8"
 
-#: public/themes/landing/index.html:866
-#: public/themes/landing/index.html:929
-#: public/themes/landing/index.html:992
-#: public/themes/landing/index.html:1055
-#: public/themes/landing/index.html:1118
-#: public/themes/landing/index.html:1181
-#: public/themes/landing/index.html:1244
-#: public/themes/landing/index.html:1307
+#: public/themes/landing/index.html:866 public/themes/landing/index.html:929
+#: public/themes/landing/index.html:992 public/themes/landing/index.html:1055
+#: public/themes/landing/index.html:1118 public/themes/landing/index.html:1181
+#: public/themes/landing/index.html:1244 public/themes/landing/index.html:1307
 #: public/themes/landing/search/index.html:743
 #: public/themes/landing/product/index.html:855
 #: public/themes/landing/product/category.html:823
@@ -5588,22 +5467,14 @@ msgstr "Продукт 8"
 msgid "100.0000"
 msgstr ""
 
-#: public/themes/landing/index.html:876
-#: public/themes/landing/index.html:880
-#: public/themes/landing/index.html:939
-#: public/themes/landing/index.html:943
-#: public/themes/landing/index.html:1002
-#: public/themes/landing/index.html:1006
-#: public/themes/landing/index.html:1065
-#: public/themes/landing/index.html:1069
-#: public/themes/landing/index.html:1128
-#: public/themes/landing/index.html:1132
-#: public/themes/landing/index.html:1191
-#: public/themes/landing/index.html:1195
-#: public/themes/landing/index.html:1254
-#: public/themes/landing/index.html:1258
-#: public/themes/landing/index.html:1317
-#: public/themes/landing/index.html:1321
+#: public/themes/landing/index.html:876 public/themes/landing/index.html:880
+#: public/themes/landing/index.html:939 public/themes/landing/index.html:943
+#: public/themes/landing/index.html:1002 public/themes/landing/index.html:1006
+#: public/themes/landing/index.html:1065 public/themes/landing/index.html:1069
+#: public/themes/landing/index.html:1128 public/themes/landing/index.html:1132
+#: public/themes/landing/index.html:1191 public/themes/landing/index.html:1195
+#: public/themes/landing/index.html:1254 public/themes/landing/index.html:1258
+#: public/themes/landing/index.html:1317 public/themes/landing/index.html:1321
 #: public/themes/landing/search/index.html:753
 #: public/themes/landing/search/index.html:757
 #: public/themes/landing/product/index.html:865
@@ -5634,116 +5505,91 @@ msgstr "Некоторые из наших пользователей"
 msgid "Hear what our users have to say"
 msgstr "Послушайте, что говорят наши пользователи"
 
-#: public/themes/landing/index.html:1359
-#: public/themes/landing/index.html:1377
-#: public/themes/landing/index.html:1394
-#: public/themes/landing/index.html:1412
+#: public/themes/landing/index.html:1359 public/themes/landing/index.html:1377
+#: public/themes/landing/index.html:1394 public/themes/landing/index.html:1412
 msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, varius quam at, luctus dui."
 msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
 
-#: public/themes/landing/index.html:1364
-#: public/themes/landing/index.html:1381
-#: public/themes/landing/index.html:1399
-#: public/themes/landing/index.html:1417
+#: public/themes/landing/index.html:1364 public/themes/landing/index.html:1381
+#: public/themes/landing/index.html:1399 public/themes/landing/index.html:1417
 msgid "Company Inc."
 msgstr "Компания Инк."
 
-#: public/themes/landing/index.html:1380
-#: public/themes/landing/index.html:1416
+#: public/themes/landing/index.html:1380 public/themes/landing/index.html:1416
 msgid "Jane Doe"
 msgstr "Джейн Доу"
 
-#: public/themes/landing/index.html:1429
-#: public/themes/landing/pricing.html:714
+#: public/themes/landing/index.html:1429 public/themes/landing/pricing.html:714
 msgid "Choose your plan"
 msgstr "Выберите свой план"
 
-#: public/themes/landing/index.html:1430
-#: public/themes/landing/pricing.html:715
+#: public/themes/landing/index.html:1430 public/themes/landing/pricing.html:715
 msgid "14-day free trial no credit card required."
 msgstr "14-дневная бесплатная пробная версия, кредитная карта не требуется."
 
-#: public/themes/landing/index.html:1440
-#: public/themes/landing/pricing.html:725
+#: public/themes/landing/index.html:1440 public/themes/landing/pricing.html:725
 msgid "Personal"
 msgstr "Личный"
 
-#: public/themes/landing/index.html:1443
-#: public/themes/landing/pricing.html:728
+#: public/themes/landing/index.html:1443 public/themes/landing/pricing.html:728
 msgid "49"
 msgstr ""
 
-#: public/themes/landing/index.html:1444
-#: public/themes/landing/index.html:1474
-#: public/themes/landing/index.html:1504
-#: public/themes/landing/pricing.html:729
+#: public/themes/landing/index.html:1444 public/themes/landing/index.html:1474
+#: public/themes/landing/index.html:1504 public/themes/landing/pricing.html:729
 #: public/themes/landing/pricing.html:759
 #: public/themes/landing/pricing.html:789
 msgid "/mos"
 msgstr "/мес."
 
-#: public/themes/landing/index.html:1448
-#: public/themes/landing/index.html:1478
-#: public/themes/landing/index.html:1508
-#: public/themes/landing/pricing.html:733
+#: public/themes/landing/index.html:1448 public/themes/landing/index.html:1478
+#: public/themes/landing/index.html:1508 public/themes/landing/pricing.html:733
 #: public/themes/landing/pricing.html:763
 #: public/themes/landing/pricing.html:793
 msgid "5 Dog Walk"
 msgstr "5 Прогулка с собакой"
 
-#: public/themes/landing/index.html:1451
-#: public/themes/landing/index.html:1481
-#: public/themes/landing/index.html:1511
-#: public/themes/landing/pricing.html:736
+#: public/themes/landing/index.html:1451 public/themes/landing/index.html:1481
+#: public/themes/landing/index.html:1511 public/themes/landing/pricing.html:736
 #: public/themes/landing/pricing.html:766
 #: public/themes/landing/pricing.html:796
 msgid "3 Vet Visit"
 msgstr "3 Визит к ветеринару"
 
-#: public/themes/landing/index.html:1454
-#: public/themes/landing/index.html:1484
-#: public/themes/landing/index.html:1514
-#: public/themes/landing/pricing.html:739
+#: public/themes/landing/index.html:1454 public/themes/landing/index.html:1484
+#: public/themes/landing/index.html:1514 public/themes/landing/pricing.html:739
 #: public/themes/landing/pricing.html:769
 #: public/themes/landing/pricing.html:799
 msgid "3 Pet Spa"
 msgstr "3 Спа для домашних животных"
 
-#: public/themes/landing/index.html:1457
-#: public/themes/landing/index.html:1487
-#: public/themes/landing/index.html:1517
-#: public/themes/landing/pricing.html:742
+#: public/themes/landing/index.html:1457 public/themes/landing/index.html:1487
+#: public/themes/landing/index.html:1517 public/themes/landing/pricing.html:742
 #: public/themes/landing/pricing.html:772
 #: public/themes/landing/pricing.html:802
 msgid "Free Support"
 msgstr "Бесплатная поддержка"
 
-#: public/themes/landing/index.html:1460
-#: public/themes/landing/index.html:1490
-#: public/themes/landing/index.html:1520
-#: public/themes/landing/pricing.html:745
+#: public/themes/landing/index.html:1460 public/themes/landing/index.html:1490
+#: public/themes/landing/index.html:1520 public/themes/landing/pricing.html:745
 #: public/themes/landing/pricing.html:775
 #: public/themes/landing/pricing.html:805
 msgid "Get Started"
 msgstr "Начать"
 
-#: public/themes/landing/index.html:1470
-#: public/themes/landing/pricing.html:755
+#: public/themes/landing/index.html:1470 public/themes/landing/pricing.html:755
 msgid "Business"
 msgstr "Бизнес"
 
-#: public/themes/landing/index.html:1473
-#: public/themes/landing/pricing.html:758
+#: public/themes/landing/index.html:1473 public/themes/landing/pricing.html:758
 msgid "79"
 msgstr ""
 
-#: public/themes/landing/index.html:1500
-#: public/themes/landing/pricing.html:785
+#: public/themes/landing/index.html:1500 public/themes/landing/pricing.html:785
 msgid "Ultimate"
 msgstr "Окончательный"
 
-#: public/themes/landing/index.html:1503
-#: public/themes/landing/pricing.html:788
+#: public/themes/landing/index.html:1503 public/themes/landing/pricing.html:788
 msgid "109"
 msgstr ""
 
@@ -5751,8 +5597,7 @@ msgstr ""
 msgid "Latest Posts"
 msgstr "Последние сообщения"
 
-#: public/themes/landing/index.html:1558
-#: public/themes/landing/index.html:1587
+#: public/themes/landing/index.html:1558 public/themes/landing/index.html:1587
 #: public/themes/landing/index.html:1616
 #: public/themes/landing/search/index.html:837
 #: public/themes/landing/blank-breadcrumb.html:699
@@ -5760,14 +5605,12 @@ msgstr "Последние сообщения"
 #: public/themes/landing/portfolio.html:699
 #: public/themes/landing/blocks/post/post-1.html:13
 #: public/themes/landing/blocks/post.html:13
-#: public/themes/landing/blank.html:666
-#: public/themes/landing/pricing.html:699
+#: public/themes/landing/blank.html:666 public/themes/landing/pricing.html:699
 #: public/themes/landing/services.html:699
 msgid "Vivamus sed nunc in arcu cursus mollis quis et orci. Interdum et malesuada"
 msgstr "Vivamus sed nunc in arcu cursus mollis quis et orci. "
 
-#: public/themes/landing/index.html:1563
-#: public/themes/landing/index.html:1592
+#: public/themes/landing/index.html:1563 public/themes/landing/index.html:1592
 #: public/themes/landing/index.html:1621
 #: public/themes/landing/search/index.html:842
 #: public/themes/landing/blocks/post/post-1.html:18
@@ -5775,8 +5618,7 @@ msgstr "Vivamus sed nunc in arcu cursus mollis quis et orci. "
 msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim nulla, mollis eu metus in, sagittis fringilla tortor. Phasellus purus dignissim convallis."
 msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
 
-#: public/themes/landing/index.html:1565
-#: public/themes/landing/index.html:1594
+#: public/themes/landing/index.html:1565 public/themes/landing/index.html:1594
 #: public/themes/landing/index.html:1623
 #: public/themes/landing/search/index.html:844
 #: public/themes/landing/blocks/post/post-1.html:20
@@ -5788,24 +5630,20 @@ msgstr "Читать далее"
 msgid "Contact Us"
 msgstr "Свяжитесь с нами"
 
-#: public/themes/landing/index.html:1657
-#: public/themes/landing/contact.html:707
+#: public/themes/landing/index.html:1657 public/themes/landing/contact.html:707
 #: public/themes/landing/content/page.html:703
 msgid "The html for sections blocks and components and this template are built using Bootstrap 5."
 msgstr "HTML для блоков разделов и компонентов, а также этот шаблон созданы с использованием Bootstrap 5."
 
-#: public/themes/landing/index.html:1663
-#: public/themes/landing/contact.html:713
+#: public/themes/landing/index.html:1663 public/themes/landing/contact.html:713
 msgid "Email:"
 msgstr "Электронная почта:"
 
-#: public/themes/landing/index.html:1673
-#: public/themes/landing/contact.html:723
+#: public/themes/landing/index.html:1673 public/themes/landing/contact.html:723
 msgid "Phone:"
 msgstr "Телефон:"
 
-#: public/themes/landing/index.html:1785
-#: public/themes/landing/contact.html:839
+#: public/themes/landing/index.html:1785 public/themes/landing/contact.html:839
 #: public/themes/landing/blocks/contact-form.html:105
 #: public/themes/landing/blocks/contact-form/contact-form-1.html:105
 msgid "Submit"
@@ -6672,12 +6510,9 @@ msgid "Manufacturer name"
 msgstr "Название производителя"
 
 #: public/themes/landing/blank-breadcrumb.html:10
-#: public/themes/landing/about.html:10
-#: public/themes/landing/portfolio.html:10
-#: public/themes/landing/blank.html:10
-#: public/themes/landing/pricing.html:10
-#: public/themes/landing/new-page.html:8
-#: public/themes/landing/services.html:10
+#: public/themes/landing/about.html:10 public/themes/landing/portfolio.html:10
+#: public/themes/landing/blank.html:10 public/themes/landing/pricing.html:10
+#: public/themes/landing/new-page.html:8 public/themes/landing/services.html:10
 #: public/themes/landing/content/page.html:10
 msgid "Vvveb Themes - Page"
 msgstr "Вввеб Темы - Страница"
@@ -6692,8 +6527,7 @@ msgstr "Моя пользовательская страница"
 #: public/themes/landing/blank-breadcrumb.html:700
 #: public/themes/landing/about.html:667
 #: public/themes/landing/portfolio.html:700
-#: public/themes/landing/blank.html:667
-#: public/themes/landing/pricing.html:700
+#: public/themes/landing/blank.html:667 public/themes/landing/pricing.html:700
 #: public/themes/landing/services.html:700
 msgid "Mauris viverra cursus ante laoreet eleifend. Donec vel fringilla ante. Aenean finibus velit id urna vehicula, nec maximus est sollicitudin. Praesent at tempus lectus, eleifend blandit felis. Fusce augue arcu, consequat a nisl aliquet, consectetur elementum turpis. Donec iaculis lobortis nisl, et viverra risus imperdiet eu. Etiam mollis posuere elit non sagittis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis arcu a magna sodales venenatis. Integer non diam sit amet magna luctus mollis ac eu nisi. In accumsan tellus ut dapibus blandit."
 msgstr "Mauris viverra cursus ante laoreet eleifend. "
@@ -6702,10 +6536,8 @@ msgstr "Mauris viverra cursus ante laoreet eleifend. "
 msgid "Meet Our Team"
 msgstr "Познакомьтесь с нашей командой"
 
-#: public/themes/landing/about.html:684
-#: public/themes/landing/about.html:699
-#: public/themes/landing/about.html:746
-#: public/themes/landing/about.html:793
+#: public/themes/landing/about.html:684 public/themes/landing/about.html:699
+#: public/themes/landing/about.html:746 public/themes/landing/about.html:793
 msgid "We are a group of professionals dedicated to their work"
 msgstr "Мы группа профессионалов, преданных своему делу"
 
@@ -6713,35 +6545,25 @@ msgstr "Мы группа профессионалов, преданных св�
 msgid "CTO - Founder"
 msgstr "Технический директор – Основатель"
 
-#: public/themes/landing/about.html:705
-#: public/themes/landing/about.html:706
-#: public/themes/landing/about.html:752
-#: public/themes/landing/about.html:753
-#: public/themes/landing/about.html:799
-#: public/themes/landing/about.html:800
-#: public/themes/landing/about.html:846
-#: public/themes/landing/about.html:847
+#: public/themes/landing/about.html:705 public/themes/landing/about.html:706
+#: public/themes/landing/about.html:752 public/themes/landing/about.html:753
+#: public/themes/landing/about.html:799 public/themes/landing/about.html:800
+#: public/themes/landing/about.html:846 public/themes/landing/about.html:847
 msgid "Facebook"
 msgstr "Фейсбук"
 
-#: public/themes/landing/about.html:712
-#: public/themes/landing/about.html:759
-#: public/themes/landing/about.html:806
-#: public/themes/landing/about.html:853
+#: public/themes/landing/about.html:712 public/themes/landing/about.html:759
+#: public/themes/landing/about.html:806 public/themes/landing/about.html:853
 msgid "Twitter"
 msgstr "Твиттер"
 
-#: public/themes/landing/about.html:718
-#: public/themes/landing/about.html:765
-#: public/themes/landing/about.html:812
-#: public/themes/landing/about.html:859
+#: public/themes/landing/about.html:718 public/themes/landing/about.html:765
+#: public/themes/landing/about.html:812 public/themes/landing/about.html:859
 msgid "Instagram"
 msgstr "Инстаграм"
 
-#: public/themes/landing/about.html:724
-#: public/themes/landing/about.html:771
-#: public/themes/landing/about.html:818
-#: public/themes/landing/about.html:865
+#: public/themes/landing/about.html:724 public/themes/landing/about.html:771
+#: public/themes/landing/about.html:818 public/themes/landing/about.html:865
 msgid "Linkedin"
 msgstr "Линкедин"
 
@@ -7276,13 +7098,15 @@ msgstr "================================"
 #: public/themes/landing/email/order/new.txt.html:47
 #: public/themes/landing/email/order/new.txt.html:53
 msgid "-----------------------------------------------------------"
-msgstr "------------------------------------------------ "
+msgstr "-----------------------------------------------------------"
 
 #: public/themes/landing/email/order/new.txt.html:30
 msgid ""
 "-----------------------------------------------------------\n"
 " |"
-msgstr "------------------------------------------------ "
+msgstr ""
+"-----------------------------------------------------------\n"
+" |"
 
 #: public/themes/landing/email/order/new.txt.html:35
 msgid "$100"
@@ -8479,4 +8303,3 @@ msgstr ""
 #: public/themes/landing/index.maintenance.html:659
 msgid "Currently under maintenance, we will be live soon."
 msgstr ""
-
